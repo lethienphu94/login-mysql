@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/lethienphu94/login-mysql#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "epxress": "0.0.1-security",
     "express": "^4.17.1",
